@@ -1,2 +1,0 @@
-# ProjetoControleEstoqueSQL_Python
- 
